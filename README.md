@@ -43,9 +43,10 @@ cd digital-clock-application
 ---
 
 ## Project Structure
-graphql
-Copy code
+
 digital-clock-application/
-├── index.html  # Main HTML file
-├── style.css   # Styles for the digital clock
-└── script.js   # JavaScript for clock functionality
+├── index.html      # Main HTML file for the clock
+├── style.css       # CSS file for styling
+└── script.js       # JavaScript file for real-time updates
+
+---
