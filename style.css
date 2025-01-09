@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #333;
+}
+
+#clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    font-size: 60px;
+    letter-spacing: 7px;
+    font-size: 90px;
+    background: linear-gradient(to right, #330033, #000000);
+    color: yellowgreen;
+    border: 3px solid #ffcc00;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(255,204, 0, 0.8);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+    border-radius: 10px;
+}
