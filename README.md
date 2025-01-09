@@ -44,9 +44,10 @@ cd digital-clock-application
 
 ## Project Structure
 
+```
 digital-clock-application/
 ├── index.html      # Main HTML file for the clock
 ├── style.css       # CSS file for styling
 └── script.js       # JavaScript file for real-time updates
-
+```
 ---
