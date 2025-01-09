@@ -41,3 +41,11 @@ cd digital-clock-application
 3. Open the index.html file in your web browser.
 
 ---
+
+## Project Structure
+graphql
+Copy code
+digital-clock-application/
+├── index.html  # Main HTML file
+├── style.css   # Styles for the digital clock
+└── script.js   # JavaScript for clock functionality
